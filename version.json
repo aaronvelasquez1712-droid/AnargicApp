@@ -1,9 +1,15 @@
 {
-  "version": "1.0.5",
-  "versionCode": 2,
-  "releaseDate": "2026-10-01",
-  "changelog": ["Nuevos items", "Corrección de bugs"],
-  "apkUrl": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/app-debug.apk"
+  "latest_version": "1.0.1",
+  "build_number": 2,
+  "force_update": false,
+  "download_url": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/app-debug.apk",
+  "release_notes": [
+    "✅ Corrección de visualización de marcos de avatares.",
+    "✅ Las fotos de perfil vinculadas a Discord ahora se muestran correctamente.",
+    "✅ Mejoras en el sistema de visualización de compras de la tienda.",
+    "✅ Sincronización oficial de Anargic Coins nativa.",
+    "🚀 Optimizaciones generales de rendimiento."
+  ]
 }
 
 
