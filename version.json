@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.9",
+  "latest_version": "1.0.3",
   "build_number": 2,
   "force_update": false,
-  "download_url": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/app-debug.apk",
+  "download_url": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/AnargicApp.apk",
   "release_notes": [
     "✅ Corrección de visualización de marcos de avatares.",
     "✅ Las fotos de perfil vinculadas a Discord ahora se muestran correctamente.",
