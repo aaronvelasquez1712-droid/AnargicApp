@@ -1,15 +1,17 @@
 {
-  "latest_version": "1.0.3",
+  "version": "1.0.1",
   "build_number": 2,
-  "force_update": false,
-  "download_url": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/AnargicApp.apk",
-  "release_notes": [
-    "✅ Corrección de visualización de marcos de avatares.",
-    "✅ Las fotos de perfil vinculadas a Discord ahora se muestran correctamente.",
-    "✅ Mejoras en el sistema de visualización de compras de la tienda.",
-    "✅ Sincronización oficial de Anargic Coins nativa.",
-    "🚀 Optimizaciones generales de rendimiento."
-  ]
+  "title": "¡Actualización de AnargicMC v1.0.1!",
+  "mandatory": false,
+  "changelog": [
+    "Nuevo botón flotante de Chat Global con animación y acceso rápido",
+    "Chat en tiempo real automatizado sin necesidad de botón de reinicio",
+    "Deslizar a la izquierda para responder mensajes con citas",
+    "Mantener presionado para editar o eliminar mensajes",
+    "Buscador interactivo de actualizaciones en la pestaña Más"
+  ],
+  "download_url": "https://github.com/aaronvelasquez1712-droid/AnargicApp/releases/download/App/AnargicApp.apk"
 }
+
 
 
